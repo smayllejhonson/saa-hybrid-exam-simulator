@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "question": "A company needs to host a static website with high availability and low latency globally. Which AWS service combination should they use?",
+    "options": [
+      "S3 + CloudFront",
+      "EC2 + Auto Scaling",
+      "EBS + EFS",
+      "RDS + Read Replicas"
+    ],
+    "answer": "S3 + CloudFront"
+  },
+  {
+    "id": 2,
+    "question": "Which EC2 Purchase Option is best for a steady-state workload that will run for 1 year?",
+    "options": [
+      "On-Demand",
+      "Spot Instances",
+      "Reserved Instances",
+      "Dedicated Hosts"
+    ],
+    "answer": "Reserved Instances"
+  }
+]
